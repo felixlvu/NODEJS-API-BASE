@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "env-cmd -f .env nodemon index.js",
+    "start": "env-cmd -f .env.development nodemon index.js",
     "start:dev": "env-cmd -f .env.development nodemon index.js",
     "start:prod": "env-cmd -f .env.production nodemon index.js"
   },
