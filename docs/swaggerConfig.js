@@ -4,9 +4,9 @@ const port = process.env.PORT || 3000;
 const swaggerDefinition = {
   openapi: "3.1.0",
   info: {
-    title: "Express API pour Cami",
+    title: "Express API",
     version: "1.0.0",
-    description: "Utilisation de l'API de Cami",
+    description: "Utilisation de l'API",
   },
   servers: [
     {
