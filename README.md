@@ -12,5 +12,5 @@ First Use :
 # All return codes
  - https://restfulapi.net/http-status-codes/
 
-# Methodes rest
+# Methodes REST
  - https://developer.mozilla.org/fr/docs/Web/HTTP/Methods
