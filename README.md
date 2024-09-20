@@ -1,10 +1,12 @@
 # NODEJS-API-BASE
 First Use :
 
-- npm install
-- npm run start:dev
-- or 
-- npm run start:prod
+```bash
+  npm install
+```
+```bash
+  npm run start
+```
 
 # use REST to create your api
  - https://www.redhat.com/fr/topics/api/what-is-a-rest-api
